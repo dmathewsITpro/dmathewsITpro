@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dmathewsITpro/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dmathewsITpro/azure-network-protocols)
+- <b>Additional Technical Projects</b>
+  - [Hardware & Software Support: Independent & Institutional Roles](https://github.com/dmathewsITpro/configure-ad)
+  - [Teaching & Instructional Technology](https://github.com/dmathewsITpro/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
