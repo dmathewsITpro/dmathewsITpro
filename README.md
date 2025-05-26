@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dmathewsITpro/azure-network-protocols)
 - <b>Additional Technical Projects</b>
   - [Hardware & Software Support: via Independent & Institutional Roles](https://github.com/dmathewsITpro/hardware-software-support)
-  - [Teaching & Instructional Technology](https://github.com/dmathewsITpro/azure-network-protocols)
+  - [Teaching & Instructional Technology](https://github.com/dmathewsITpro/teaching-technology-instruction)
 
 <h2>🤳Connect with me:</h2>
 
