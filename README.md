@@ -18,7 +18,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [GRC Mastery: NIST SP 800-37 Risk Management Framework (RMF)](https://github.com/dmathewsITpro/GRCMastery-NIST-RMF)
   - [CyberSecGRC: ISO 27001 ISMS Development](https://github.com/dmathewsITpro/CyberSecGRC-ISO27001-ISMS)
-  - [LearningMate: GRC Consultant, Data Privacy Rights (SME)](https://github.com/dmathewsITpro/ticket-lifecycle)
+  - [LearningMate: GRC Consultant, Data Privacy Rights (SME)](https://github.com/dmathewsITpro/LearningMate-Data-Privacy)
 
 <h2>🤳Connect with me:</h2>
 
