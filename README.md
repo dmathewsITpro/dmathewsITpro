@@ -13,7 +13,7 @@
   - [Hardware & Software Support: via Independent & Institutional Roles](https://github.com/dmathewsITpro/hardware-software-support)
   - [Teaching & Instructional Technology](https://github.com/dmathewsITpro/teaching-technology-instruction)
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
+<h2>🛡️🔐 CyberSecurity Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [GRC Mastery: NIST SP 800-37 Risk Management Framework (RMF)](https://github.com/dmathewsITpro/GRCMastery-NIST-RMF)
