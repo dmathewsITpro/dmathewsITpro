@@ -15,7 +15,7 @@
 
 <h2>🛡️🔐 CyberSecurity Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>GRC Experience (Governance, Risk, & Compliance)</b>
   - [GRC Mastery: NIST SP 800-37 Risk Management Framework (RMF)](https://github.com/dmathewsITpro/GRCMastery-NIST-RMF)
   - [CyberSecGRC: ISO 27001 ISMS Development](https://github.com/dmathewsITpro/CyberSecGRC-ISO27001-ISMS)
   - [LearningMate: GRC Consultant, Data Privacy Rights (SME)](https://github.com/dmathewsITpro/LearningMate-Data-Privacy)
